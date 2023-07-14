@@ -26,4 +26,12 @@ ul {
     gap: 8px;
 }
 
-
+.welcome {
+    display: flex;
+   flex-wrap: wrap;
+   margin: 0;
+   padding: 20px
+}
+.intro {
+    background-color: rgb(92, 92, 107);
+}
