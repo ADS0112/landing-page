@@ -78,3 +78,16 @@ height: 30px;
 width: 30px;
 color: white;
 }
+.container {
+   display: flex;
+   justify-content: center;
+}
+
+.images-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.game-text{
+    color: blue;
+}
