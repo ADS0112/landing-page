@@ -98,8 +98,19 @@ button {
 
 .images-container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding: 20px;
+}
+.image1 img{
+    width: 150px;
+}
+.image2 img {
+    width: 100px;
+
+}
+.image2 {
+    position: relative;
+    bottom: 20px;
 }
 
 
