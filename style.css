@@ -187,11 +187,25 @@ button {
 .blue-rect p {
 margin: 2px;
 display: flex;
+position: relative;
+left: 40px;
+color: white;
+font-weight: bold;
 
 }
 
-/* .blue-rect button {
+.blue-rect button {
     position: absolute;
-    left: 200px;
-} */
+    right: 600px;
+}
 /* Footer  CSS*/
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+}
+.footer p {
+    color: white;
+}
