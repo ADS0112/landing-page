@@ -101,8 +101,15 @@ button {
     justify-content: space-evenly;
     padding: 20px;
 }
+.images-container p {
+    font-weight: bold;
+}
+
 .image1 img{
     width: 150px;
+}
+.image1 p {
+    text-align: center;
 }
 .image2 img {
     width: 100px;
@@ -112,7 +119,31 @@ button {
     position: relative;
     bottom: 20px;
 }
-
+.image2 p {
+    text-align: center;
+}
+.image3 img {
+    width: 200px;
+}
+.image3 {
+    position: relative;
+    bottom: 20px;
+}
+.image3 p {
+    text-align: center;
+}
+.image4 img {
+    width: 200px;
+   
+}
+.image4 {
+    position: relative;
+    bottom: 75px;
+}
+.image4 p {
+    text-align: center;
+    position: relative;
+    bottom: 61px;
 
 /* Quote Section CSS */
 
